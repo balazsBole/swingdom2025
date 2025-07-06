@@ -101,7 +101,7 @@ body.is-preload *, body.is-preload *:before, body.is-preload *:after {
 
 body, input, select, textarea {
     color: rgba(255, 255, 255, 0.75);
-    font-family: "Roboto", Helvetica, sans-serif;
+    font-family: "Trend Sans One", Helvetica, sans-serif;
     font-size: 15pt;
     font-weight: 100;
     line-height: 1.75em;
@@ -136,6 +136,7 @@ p {
 }
 
 h1, h2, h3, h4, h5, h6 {
+    font-family: "Trend Sans Five";
     color: #ffffff;
     font-weight: 300;
     line-height: 1em;
@@ -560,7 +561,7 @@ body.landing:before {
     text-rendering: auto;
     line-height: 1;
     text-transform: none !important;
-    font-family: 'Font Awesome 5 Free';
+    font-family: 'Trend Sans Five';
     font-weight: 900;
 }
 
@@ -2182,6 +2183,7 @@ header h6 + p {
 }
 
 header.major {
+    font-family: "Trend Sans Five";
     margin: 0 0 1em 0;
     position: relative;
     text-align: center;
@@ -4108,4 +4110,17 @@ body.is-touch #banner {
         padding: 0;
     }
 
+    @font-face {
+        font-family: 'Trend Sans One';
+        src: url("../webfonts/trend-sans-one.otf") format("opentype");
+        font-weight: normal;
+        font-style: normal;
+    }
+
+    @font-face {
+        font-family: 'Trend Sans Five';
+        src: url("../webfonts/font-trend-sans-five.otf") format("opentype");
+        font-weight: normal;
+        font-style: normal;
+    }
 }
