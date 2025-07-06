@@ -3887,13 +3887,13 @@ body.is-touch #banner {
         -ms-transition: -ms-transform 0.5s ease;
         transition: transform 0.5s ease;
         display: block;
-        height: 44px;
+        height: 70px;
         left: 0;
         position: fixed;
         top: 0;
         width: 100%;
         z-index: 10001;
-        background: #272833;
+        background: #303756;
         box-shadow: 0 0.125em 0.125em 0 rgba(0, 0, 0, 0.125);
     }
 
@@ -3941,13 +3941,14 @@ body.is-touch #banner {
         content: '\f0c9';
         display: block;
         font-size: 18px;
-        height: 44px;
+        height: 70px;
         left: 0;
         line-height: 44px;
         position: absolute;
         text-align: center;
         top: 0;
         width: 54px;
+        padding: 12px;
     }
 
     #navPanel {
