@@ -2576,7 +2576,6 @@ input[type="radio"] + label:before {
 
 .text {
 	color: #9eccd7;
-	font-size: 30px;
 	position: absolute;
 	top: 50%;
 	left: 50%;
@@ -2584,7 +2583,8 @@ input[type="radio"] + label:before {
 	-ms-transform: translate(-50%, -50%);
 	transform: translate(-50%, -50%);
 	text-align: center;
-	padding-top: 50%;
+    display: grid;
+    align-items: center;
 }
 
 .overlay {
