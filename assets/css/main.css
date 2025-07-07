@@ -2789,6 +2789,7 @@ ul.actions.fit.stacked {
 .table-wrapper {
     -webkit-overflow-scrolling: touch;
     overflow-x: auto;
+    padding-top: 10px;
 }
 
 table {
