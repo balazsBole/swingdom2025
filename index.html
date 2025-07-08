@@ -186,7 +186,7 @@
 
 						<div class="col-4 col-4-xsmall">
 							<div class="talent">
-								<span class="image fit">
+								<span id="bigFiveModalOpen" class="image fit">
 									<img src="images/bands/bigfive.jpg" alt="TBF" />
 									<span class="overlay text">The Big Five</span>
 								</span>
@@ -195,7 +195,7 @@
 
 						<div class="col-4 col-4-xsmall">
 							<div class="talent">
-								<span class="image fit">
+								<span id="roaringModalOpen" class="image fit">
 									<img src="images/bands/roaringcats.jpg" alt="RC" />
 									<span class="overlay text">Roaring Cats</span>
 								</span>
@@ -204,7 +204,7 @@
 
 						<div class="col-4 col-4-xsmall">
 							<div class="talent">
-								<span class="image fit">
+								<span id="samModalOpen" class="image fit">
 									<img src="images/bands/sam.jpg" alt="Sam" />
 									<span class="overlay text">Sam Ghezzi Blues Duo</span>
 								</span>
@@ -230,6 +230,51 @@
 
 		</div>
 
+<!--		Talent modals -->
+		<div id="bigFiveModal" class="modal">
+			<div class="modal-content">
+				<span id="bigFiveModalClose" class="close">&times;</span>
+				<div class="container">
+					<header class="major">
+						<h2>The Big Five</h2>
+					</header>
+					<p>We are very happy to have The Big Five <a href="https://www.instagram.com/thebigfivejazzberlin/" target="_blank">@thebigfivejazzberlin</a> share their music.
+						</br>Inspired by the wild hot sounds of 1930s/40s Harlem and Chicago jazz, The Big Five have established themselves as Berlin’s most authentic swing-era combo. Combining a driving rhythm section, a fiery horn-led frontline and dynamic song-arrangements, this international band makes a deep-dive into the lesser-known repertoire of the Swing Golden Age - as well as a strong emphasis on original compositions.
+						</br>The Big Five are veterans of Berlin’s famed Lindy-hop and Balboa dance-halls and know how to turn a mild-mannered dance party into a raging frenzy of swing-outs.</p>
+				</div>
+			</div>
+		</div>
+
+		<div id="samModal" class="modal">
+			<div class="modal-content">
+				<span id="samModalClose" class="close">&times;</span>
+				<div class="container">
+					<header class="major">
+						<h2>Sam Ghezzi Blues Duo</h2>
+					</header>
+					<p>It's becoming a tradition to have a Blues After Party at SwingDom.
+						</br>This year on Saturday night you can groove to the tunes of Sam Ghezzi<a href="https://www.instagram.com/samghezzi/" target="_blank">(@samghezzi)</a> and mystery guest, (as Sam Ghezzi Blues Duo) in Le Clochard.
+						</br>Expect amazing music, a packed dance floor and cozy vibes. This band will keep you moving till the early hours.</p>
+				</div>
+			</div>
+		</div>
+
+		<div id="roaringModal" class="modal">
+			<div class="modal-content">
+				<span id="roaringModalClose" class="close">&times;</span>
+				<div class="container">
+					<header class="major">
+						<h2>Roaring Cats</h2>
+					</header>
+					<p>We are very happy to welcome back The Roaring Cats<a href="https://www.instagram.com/roaring.cats/" target="_blank">(@roaring.cats)</a>, and have them share their wonderful music at our SwingDom 2025 Sunday Party.
+
+						</br>The Roaring Cats will take us right back to the ’20s and ‘30s of New Orleans with their repertoire ranging from smooth slow-passed songs to swinging high tempo jazz. Get ready to dance the night away!</p>
+				</div>
+			</div>
+		</div>
+
+<!--		Talent modals end-->
+
 		<!-- Scripts -->
 			<script src="assets/js/jquery.min.js"></script>
 			<script src="assets/js/jquery.scrolly.min.js"></script>
@@ -240,5 +285,55 @@
 			<script src="assets/js/util.js"></script>
 			<script src="assets/js/main.js"></script>
 
+	<script>
+		var bigFiveModal = document.getElementById("bigFiveModal");
+		var bigFiveModalOpen = document.getElementById("bigFiveModalOpen");
+		var bigFiveModalClose = document.getElementById("bigFiveModalClose");
+
+		bigFiveModalOpen.onclick = function() {
+			bigFiveModal.style.display = "block";
+		}
+		bigFiveModalClose.onclick = function() {
+			bigFiveModal.style.display = "none";
+		}
+
+		var samModal = document.getElementById("samModal");
+		var samModalOpen = document.getElementById("samModalOpen");
+		var samModalClose = document.getElementById("samModalClose");
+
+		samModalOpen.onclick = function() {
+			samModal.style.display = "block";
+		}
+		samModalClose.onclick = function() {
+			samModal.style.display = "none";
+		}
+
+		var roaringModal = document.getElementById("roaringModal");
+		var roaringModalOpen = document.getElementById("roaringModalOpen");
+		var roaringModalClose = document.getElementById("roaringModalClose");
+
+		roaringModalOpen.onclick = function() {
+			roaringModal.style.display = "block";
+		}
+		roaringModalClose.onclick = function() {
+			roaringModal.style.display = "none";
+		}
+
+
+		window.onclick = function(event) {
+			if (event.target == bigFiveModal) {
+				bigFiveModal.style.display = "none";
+			}
+			if (event.target == samModal) {
+				samModal.style.display = "none";
+			}
+			if (event.target == roaringModal) {
+				roaringModal.style.display = "none";
+			}
+		}
+
+
+
+	</script>
 	</body>
 </html>
