@@ -3921,6 +3921,11 @@ body.is-touch #banner {
         border: 0;
     }
 
+    #titleBar .logo {
+        display: table-cell;
+        vertical-align: middle;
+    }
+
     #titleBar .toggle {
         text-decoration: none;
         height: 60px;
