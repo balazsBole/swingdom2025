@@ -3909,7 +3909,7 @@ body.is-touch #banner {
 
     #titleBar .title {
         color: #ffffff;
-        display: block ruby;
+        display: block;
         font-weight: 300;
         height: 44px;
         line-height: 44px;
