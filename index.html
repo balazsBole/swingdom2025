@@ -170,7 +170,7 @@
 
 						<div class="col-3 col-3-xsmall">
 							<div class="talent">
-								<span class="image fit">
+								<span id="makaModalOpen" class="image fit">
 									<img src="images/teachers/Maka_small.png" alt="Maka" />
 									<span class="overlay text">Maka</span>
 								</span>
@@ -273,6 +273,22 @@
 			</div>
 		</div>
 
+
+		<div id="makaModal" class="modal">
+			<div class="modal-content">
+				<span id="makaModalClose" class="close">&times;</span>
+				<div class="container">
+					<header class="major">
+						<h2>Maka</h2>
+					</header>
+					<p>
+						<a href="https://www.instagram.com/makayavelic/" target="_blank">Maka</a> is a multi-talented dancer, musician and DJ, which shows in his teaching! We’re excited to welcome him to SwingDom this year. Here’s a message from him to you:
+						</br> “Hi, my name is Maka. I do lindy and solo, and I also DJ at many festivals. I also play lots of instruments in lots of bands and teach lessons and workshops about musicality. But above all, I have a lot of respect for the rare people who read the teachers' descriptions! So, if you come to me with the password "dogmatic squid", I'll try to tell you a joke to congratulate this noble gesture of yours.”
+					</p>
+				</div>
+			</div>
+		</div>
+
 <!--		Talent modals end-->
 
 		<!-- Scripts -->
@@ -319,6 +335,17 @@
 			roaringModal.style.display = "none";
 		}
 
+		var makaModal = document.getElementById("makaModal");
+		var makaModalOpen = document.getElementById("makaModalOpen");
+		var makaModalClose = document.getElementById("makaModalClose");
+
+		makaModalOpen.onclick = function() {
+			makaModal.style.display = "block";
+		}
+		makaModalClose.onclick = function() {
+			makaModal.style.display = "none";
+		}
+
 
 		window.onclick = function(event) {
 			if (event.target == bigFiveModal) {
@@ -330,9 +357,10 @@
 			if (event.target == roaringModal) {
 				roaringModal.style.display = "none";
 			}
+			if (event.target == makaModal) {
+				makaModal.style.display = "none";
+			}
 		}
-
-
 
 	</script>
 	</body>
