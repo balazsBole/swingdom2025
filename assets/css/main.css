@@ -113,7 +113,7 @@ a {
     -ms-transition: border-color 0.2s ease-in-out, color 0.2s ease-in-out;
     transition: border-color 0.2s ease-in-out, color 0.2s ease-in-out;
     border-bottom: dotted 1px;
-    color: #e44c65;
+    color: #e24210;
     text-decoration: none;
 }
 
@@ -2190,7 +2190,7 @@ header.major {
 }
 
 header.major:after {
-    background: #de481d;
+    background: #e24210;
     content: '';
     display: inline-block;
     height: 0.2em;
@@ -2940,7 +2940,7 @@ input[type="submit"].primary,
 input[type="reset"].primary,
 input[type="button"].primary,
 .button.primary {
-    background-color: #de481d;
+    background-color: #e24210;
     box-shadow: none;
     color: #ffffff !important;
 }
@@ -2956,7 +2956,7 @@ input[type="submit"].primary:active,
 input[type="reset"].primary:active,
 input[type="button"].primary:active,
 .button.primary:active {
-    background-color: #de481d;
+    background-color: #e24210;
 }
 
 input[type="submit"].disabled, input[type="submit"]:disabled,
@@ -3181,7 +3181,7 @@ input[type="button"]:disabled,
 }
 
 .spotlight.style1 .content {
-    border-color: #de481d;
+    border-color: #e24210;
 }
 
 .spotlight.style2 .content {
@@ -3951,7 +3951,7 @@ body.is-touch #banner {
     }
 
     #titleBar .toggle:before {
-        background: #e44c65;
+        background: #e24210;
         color: rgba(255, 255, 255, 0.5);
         content: '\f0c9';
         display: block;
