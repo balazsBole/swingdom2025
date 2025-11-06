@@ -1,0 +1,155 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Swingdom 2025 Classes LH4A//http://swingdom.nl///
+METHOD:PUBLISH
+X-WR-CALNAME:Swingdom 2025 Classes LH4A
+
+BEGIN:VEVENT
+SUMMARY:LH4A with Ari & Simon
+DTSTART:20251115T111500Z
+DTEND:20251115T121500Z
+DTSTAMP:20251030T221340Z
+LOCATION:Schoolplein 6\, 3581 PP Utrecht
+URL:https://maps.app.goo.gl/tcN19BmKkq1J1GSR8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LH4A with Ana & Alberto
+DTSTART:20251115T131500Z
+DTEND:20251115T151500Z
+DTSTAMP:20251030T221340Z
+LOCATION:Cremerstraat 253\, 3532 BS Utrecht
+URL:https://maps.app.goo.gl/EiF3bQ4haTpKNsJu5
+END:VEVENT
+
+
+BEGIN:VEVENT
+SUMMARY:LH4A with Laura & Gustav
+DTSTART:20251116T093000Z
+DTEND:20251116T113000Z
+DTSTAMP:20251030T221340Z
+LOCATION:Amsterdamsestraatweg 3\, 3513 AA Utrecht
+URL:https://maps.app.goo.gl/37fQZiWWuVFs37fx8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LH4A with Ailsa & Maka
+DTSTART:20251116T114500Z
+DTEND:20251116T124500Z
+DTSTAMP:20251030T221340Z
+LOCATION:Cremerstraat 253\, 3532 BS Utrecht
+URL:https://maps.app.goo.gl/EiF3bQ4haTpKNsJu5
+END:VEVENT
+
+
+
+BEGIN:VEVENT
+SUMMARY:Theme Class - Balboa Footwork Bonanza (for both roles) with Natalia
+DTSTART:20251115T154500Z
+DTEND:20251115T164500Z
+DTSTAMP:20251030T221125
+LOCATION:Schoolplein 6\, 3581 PP Utrecht
+DESCRIPTION:Add rhythm\, texture\, and flair to your Balboa! This solo class will dive into fun footwork variations to elevate your (pure) Bal — to inspire your individual style and help you weave new rhythms seamlessly into your partnership. Open to all levels\, from beginner and up!
+URL:https://maps.app.goo.gl/tcN19BmKkq1J1GSR8
+UID:theme-class-saturday-balboa@swingdom2025
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:Theme Class - Hiphop with Alvaro
+DTSTART:20251115T154500Z
+DTEND:20251115T164500Z
+DTSTAMP:20251030T221125
+LOCATION:Cremerstraat 253\, 3532 BS Utrecht
+DESCRIPTION:Getting in to your groove and different layers of dancing
+URL:https://maps.app.goo.gl/EiF3bQ4haTpKNsJu5
+UID:theme-class-saturday-hiphop@swingdom2025
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:Theme Class - African Dance with John
+DTSTART:20251115T154500Z
+DTEND:20251115T164500Z
+DTSTAMP:20251030T221125
+LOCATION:Amsterdamsestraatweg 3\, 3513 AA Utrecht
+DESCRIPTION:African Dance with John Kayongo - https://studiolionpaw.nl/over-john/
+URL:https://maps.app.goo.gl/37fQZiWWuVFs37fx8
+UID:theme-class-saturday-african@swingdom2025
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:Theme Class - Charleston with Tanja & Kay
+DTSTART:20251115T154500Z
+DTEND:20251115T164500Z
+DTSTAMP:20251030T221125
+LOCATION:Weerdsingel Westzijde 22\, 3514 AA Utrecht
+DESCRIPTION:Charleston with Tanja and Kay - https://www.littlejazz.fi/
+URL:https://maps.app.goo.gl/5xRC4nSW8u5DXdUy9
+UID:theme-class-saturday-charleston@swingdom2025
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:Theme Class - Dance Fast\, Don’t Die - Solo Jazz with Mike
+DTSTART:20251115T154500Z
+DTEND:20251115T164500Z
+DTSTAMP:20251030T221125
+LOCATION:Van Imhoffstraat 2\, 3531 HW Utrecht
+DESCRIPTION:Learn the skills to enjoy the speedy high energy songs without feeling like you're running a race. Mike will show you how to keep it interesting and dynamic while dancing small and conserving energy\, then choose a moment to go big\, and bring the energy back down. Some of the most iconic and danceable jazz songs are fast, and if you're not comfortable dancing to them\, you are missing out!
+URL:https://maps.app.goo.gl/5xRC4nSW8u5DXdUy9
+UID:theme-class-saturday-solo@swingdom2025
+END:VEVENT
+
+
+
+BEGIN:VEVENT
+SUMMARY:Theme Class - African Dance with John
+DTSTART:20251116T160000Z
+DTEND:20251116T170000Z
+DTSTAMP:20251030T221125
+LOCATION:Oude Kerkstraat 2A\, 3572 TJ Utrecht
+DESCRIPTION:African Dance with John Kayongo - https://studiolionpaw.nl/over-john/
+URL:https://maps.app.goo.gl/Uia1wPa9h7EtWhMQ8
+UID:theme-class-sunday-african@swingdom2025
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:Theme Class - HipHop with Alvaro
+DTSTART:20251116T160000Z
+DTEND:20251116T170000Z
+DTSTAMP:20251030T221125
+LOCATION:Cremerstraat 253\, 3532 BS Utrecht
+DESCRIPTION:Getting in to your groove and different layers of dancing
+URL:https://maps.app.goo.gl/EiF3bQ4haTpKNsJu5
+UID:theme-class-sunday-hiphop@swingdom2025
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:Theme Class - Slow Bal Taster Class with Natalia & Mike
+DTSTART:20251116T160000Z
+DTEND:20251116T170000Z
+DTSTAMP:20251030T221125
+LOCATION:Amsterdamsestraatweg 3\, 3513 AA Utrecht
+DESCRIPTION:Go from zero to Slow Bal hero! Learn Dean Raftery’s smooth\, flowing style with its signature “swimming” footwork and rotational dynamics. After this class\, every slow swing tune will be an invitation to enjoy the dreamy charm of Slow Bal. Open to all levels. Previous Balboa\, Blues, or Lindy Hop experience is recommended.
+URL:https://maps.app.goo.gl/37fQZiWWuVFs37fx8
+UID:theme-class-sunday-slowbal@swingdom2025
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:Theme Class - Walking in Rhythm - Tap with Doortje
+DTSTART:20251116T160000Z
+DTEND:20251116T170000Z
+DTSTAMP:20251030T221125
+LOCATION:Deken Roesstraat 2G\, 3581 RX Utrecht
+DESCRIPTION:In this class we will work on the relationship between weight change and rhythm and combine the art of tap dancing with the art of casual walking. Expect to learn some cool tap moves that combine spectacle with nonchalance.
+URL:https://maps.app.goo.gl/T6iybCsY35UHuLAS7
+UID:theme-class-sunday-tap@swingdom2025
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:Theme Class - Fancy Moves with Tanja & Kay
+DTSTART:20251116T160000Z
+DTEND:20251116T170000Z
+DTSTAMP:20251030T221125
+LOCATION:Pieterskerk\, Kromme Nieuwegracht 62\, 3512 HL Utrecht
+DESCRIPTION:Fancy Moves with Tanja and Kay - https://www.littlejazz.fi/
+URL:https://maps.app.goo.gl/sYRmVfTc5Cw7BmJV9
+UID:theme-class-sunday-lindyhop@swingdom2025
+END:VEVENT
+END:VCALENDAR
