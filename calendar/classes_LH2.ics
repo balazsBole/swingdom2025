@@ -150,4 +150,89 @@ DESCRIPTION:Solid basics are the bread and butter of our dancing\, but a diet of
 URL:https://maps.app.goo.gl/sYRmVfTc5Cw7BmJV9
 UID:theme-class-sunday-lindyhop@swingdom2025
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Weekly Social
+DTSTART:20251112T183000Z
+DTEND:20251112T213000Z
+DTSTAMP:20251030T221125
+LOCATION:Muziek Domplein\, Domplein 4\, 3512 JC Utrecht
+DESCRIPTION:Swing in Utrecht HopSpot
+URL:https://maps.app.goo.gl/kLcGajEV8qVczWNZ7
+UID:party-weekly-social@swingdom2025
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Welcome Party
+DTSTART:20251113T190000Z
+DTEND:20251114T000000Z
+DTSTAMP:20251030T221125
+LOCATION:Kitchen Bar Danel\, Vredenburgkade 11\, 3511 WC Utrecht
+DESCRIPTION:HopSpot Swingdom edition
+URL:https://maps.app.goo.gl/WHUt87qPWU8QZY7s8
+UID:party-welcome@swingdom2025
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Speelklok Museum Tour - Registration required
+DTSTART:20251114T150000Z
+DTEND:20251114T160000Z
+DTSTAMP:20251030T221125
+LOCATION:Museum Speelklok\, Steenweg 6\, 3511 JP Utrecht
+DESCRIPTION:Registration required - https://tinyurl.com/2eh68kap
+URL:https://maps.app.goo.gl/xJrPryiTnHgbGAGD6
+UID:museum-tour@swingdom2025
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Evening Party
+DTSTART:20251114T193000Z
+DTEND:20251115T000000Z
+DTSTAMP:20251030T221125
+LOCATION:Museum Speelklok\, Steenweg 6\, 3511 JP Utrecht
+DESCRIPTION:With the Big Five - https://www.instagram.com/thebigfivejazzberlin/
+URL:https://maps.app.goo.gl/xJrPryiTnHgbGAGD6
+UID:party-friday@swingdom2025
+END:VEVENT
+
+
+BEGIN:VEVENT
+SUMMARY:DJ Workshop with Maka
+DTSTART:20251115T183000Z
+DTEND:20251115T193000Z
+DTSTAMP:20251030T221125
+LOCATION:Museum Speelklok\, Steenweg 6\, 3511 JP Utrecht
+DESCRIPTION:DJ Workshop with Maka - https://www.instagram.com/makayavelic/
+URL:https://maps.app.goo.gl/xJrPryiTnHgbGAGD6
+UID:dj-workshop-maka@swingdom2025
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Evening Party
+DTSTART:20251115T193000Z
+DTEND:20251116T000000Z
+DTSTAMP:20251030T221125
+LOCATION:Museum Speelklok, Steenweg 6\, 3511 JP Utrecht
+DESCRIPTION:With the Big Five - https://www.instagram.com/thebigfivejazzberlin/
+URL:https://maps.app.goo.gl/xJrPryiTnHgbGAGD6
+UID:party-saturday@swingdom2025
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blues After Party
+DTSTART:20251116T000000Z
+DTEND:20251116T033000Z
+DTSTAMP:20251030T221125
+LOCATION:De Nijverheid Café, Nijverheidskade 15\, 3534 AZ Utrecht
+DESCRIPTION:With Sam Ghezzi - https://www.instagram.com/samghezzi/
+URL:https://maps.app.goo.gl/SsdbA4zuw8pBN1498
+UID:after-party-saturday@swingdom2025
+END:VEVENT
+
+
+BEGIN:VEVENT
+SUMMARY:Sunday Party
+DTSTART:20251116T193000Z
+DTEND:20251116T233000Z
+DTSTAMP:20251030T221125
+LOCATION:Museum Speelklok\, Steenweg 6\, 3511 JP Utrecht
+DESCRIPTION:With Roaring Cats - https://www.instagram.com/roaring.cats/
+URL:https://maps.app.goo.gl/xJrPryiTnHgbGAGD6
+UID:party-sunday@swingdom2025
+END:VEVENT
+
 END:VCALENDAR
