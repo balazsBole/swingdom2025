@@ -1,91 +1,76 @@
 BEGIN:VCALENDAR
-PRODID:-//Swingdom 2025 parties//swingdom.nl
 VERSION:2.0
+PRODID:-//Swingdom 2026 parties//http://swingdom.nl///
 METHOD:PUBLISH
-X-WR-CALNAME:Swingdom 2025
+X-WR-CALNAME:Swingdom 2026 parties
 X-WR-CALDESC:Full schedule of parties and theme classes
 BEGIN:VEVENT
-SUMMARY:Weekly Social
-DTSTART:20251112T183000Z
-DTEND:20251112T213000Z
-DTSTAMP:20251030T221125
-LOCATION:Muziek Domplein\, Domplein 4\, 3512 JC Utrecht
-DESCRIPTION:Swing in Utrecht HopSpot
-URL:https://maps.app.goo.gl/kLcGajEV8qVczWNZ7
-UID:party-weekly-social@swingdom2025
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Welcome Party
-DTSTART:20251113T190000Z
-DTEND:20251114T000000Z
-DTSTAMP:20251030T221125
-LOCATION:Kitchen Bar Danel\, Vredenburgkade 11\, 3511 WC Utrecht
-DESCRIPTION:HopSpot Swingdom edition
-URL:https://maps.app.goo.gl/WHUt87qPWU8QZY7s8
-UID:party-welcome@swingdom2025
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Speelklok Museum Tour - Registration required
-DTSTART:20251114T150000Z
-DTEND:20251114T160000Z
-DTSTAMP:20251030T221125
+DTSTART:20261113T150000Z
+DTEND:20261113T160000Z
+DTSTAMP:20261110T160000Z
 LOCATION:Museum Speelklok\, Steenweg 6\, 3511 JP Utrecht
-DESCRIPTION:Registration required - https://tinyurl.com/2eh68kap
+DESCRIPTION:Registration required - https://docs.google.com/spreadsheets/d/1q4thizUJjibhdJHdYUHUgK07jLYUh6_9McpqBzjF5wg/edit?usp=drivesdk
 URL:https://maps.app.goo.gl/xJrPryiTnHgbGAGD6
-UID:museum-tour@swingdom2025
+UID:museum-tour@swingdom2026
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Evening Party
-DTSTART:20251114T193000Z
-DTEND:20251115T000000Z
-DTSTAMP:20251030T221125
+DTSTART:20261113T193000Z
+DTEND:20261114T000000Z
+DTSTAMP:20261110T160000Z
 LOCATION:Museum Speelklok\, Steenweg 6\, 3511 JP Utrecht
-DESCRIPTION:With the Big Five - https://www.instagram.com/thebigfivejazzberlin/
+DESCRIPTION:With Hot Swing Sextet
 URL:https://maps.app.goo.gl/xJrPryiTnHgbGAGD6
-UID:party-friday@swingdom2025
+UID:party-friday@swingdom2026
 END:VEVENT
-
-
 BEGIN:VEVENT
-SUMMARY:DJ Workshop with Maka
-DTSTART:20251115T183000Z
-DTEND:20251115T193000Z
-DTSTAMP:20251030T221125
-LOCATION:Museum Speelklok\, Steenweg 6\, 3511 JP Utrecht
-DESCRIPTION:DJ Workshop with Maka - https://www.instagram.com/makayavelic/
-URL:https://maps.app.goo.gl/xJrPryiTnHgbGAGD6
-UID:dj-workshop-maka@swingdom2025
+SUMMARY:Mix & Match Prelims
+DTSTART:20261114T161500Z
+DTEND:20261114T170000Z
+DTSTAMP:20261110T160000Z
+LOCATION:Weerdsingel Westzijde 22\, 3514 AA Utrecht
+DESCRIPTION:Registration required - https://docs.google.com/forms/d/e/1FAIpQLSd0unldtllC7IeIT9HN_bWX-3khA-xqAcriOydTJ6ezSGxR6A/viewform
+URL:https://maps.app.goo.gl/5xRC4nSW8u5DXdUy9
+UID:prelims-saturday@swingdom2026
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Evening Party
-DTSTART:20251115T193000Z
-DTEND:20251116T000000Z
-DTSTAMP:20251030T221125
-LOCATION:Museum Speelklok, Steenweg 6\, 3511 JP Utrecht
-DESCRIPTION:With the Big Five - https://www.instagram.com/thebigfivejazzberlin/
+DTSTART:20261114T193000Z
+DTEND:20261115T000000Z
+DTSTAMP:20261110T160000Z
+LOCATION:Museum Speelklok\, Steenweg 6\, 3511 JP Utrecht
+DESCRIPTION:With Hot Swing Sextet
 URL:https://maps.app.goo.gl/xJrPryiTnHgbGAGD6
-UID:party-saturday@swingdom2025
+UID:party-saturday@swingdom2026
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Blues After Party
-DTSTART:20251116T000000Z
-DTEND:20251116T033000Z
-DTSTAMP:20251030T221125
-LOCATION:De Nijverheid Café, Nijverheidskade 15\, 3534 AZ Utrecht
-DESCRIPTION:With Sam Ghezzi - https://www.instagram.com/samghezzi/
-URL:https://maps.app.goo.gl/SsdbA4zuw8pBN1498
-UID:after-party-saturday@swingdom2025
+SUMMARY:Blues Afterparty - Registration required
+DTSTART:20261115T000000Z
+DTEND:20261115T030000Z
+DTSTAMP:20261110T160000Z
+LOCATION:Café 't Pandje\, Nobelstraat 193\, Utrecht
+DESCRIPTION:Blues party with Gumbo and The Monk. Registration required - https://docs.google.com/forms/d/e/1FAIpQLSfA4iNEqxSBBvCpBF7FLyPX0Lc_waH_IvVRlx0BMIAckWfrGA/viewform
+URL:https://www.google.com/maps/search/?api=1&query=Caf%C3%A9+%27t+Pandje+Nobelstraat+193+Utrecht
+UID:after-party-saturday@swingdom2026
 END:VEVENT
-
-
+BEGIN:VEVENT
+SUMMARY:Culture Talk
+DTSTART:20261115T183000Z
+DTEND:20261115T193000Z
+DTSTAMP:20261110T160000Z
+LOCATION:Museum Speelklok\, Steenweg 6\, 3511 JP Utrecht
+URL:https://maps.app.goo.gl/xJrPryiTnHgbGAGD6
+UID:culture-talk-sunday@swingdom2026
+END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sunday Party
-DTSTART:20251116T193000Z
-DTEND:20251116T233000Z
-DTSTAMP:20251030T221125
+DTSTART:20261115T193000Z
+DTEND:20261115T230000Z
+DTSTAMP:20261110T160000Z
 LOCATION:Museum Speelklok\, Steenweg 6\, 3511 JP Utrecht
-DESCRIPTION:With Roaring Cats - https://www.instagram.com/roaring.cats/
+DESCRIPTION:With Fidgety Feetwarmers
 URL:https://maps.app.goo.gl/xJrPryiTnHgbGAGD6
-UID:party-sunday@swingdom2025
+UID:party-sunday@swingdom2026
 END:VEVENT
 END:VCALENDAR
